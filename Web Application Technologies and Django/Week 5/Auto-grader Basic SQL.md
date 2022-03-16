@@ -7,10 +7,10 @@
 <br>
 <br>
 `DELETE FROM Ages;
-INSERT INTO Ages (name, age) VALUES ('Rebekkah', 18);
-INSERT INTO Ages (name, age) VALUES ('Ailidh', 30);
-INSERT INTO Ages (name, age) VALUES ('Jaya', 34);
-INSERT INTO Ages (name, age) VALUES ('Katharine', 23);
+INSERT INTO Ages (name, age) VALUES ('Olaoluwapolorimi', 16);
+INSERT INTO Ages (name, age) VALUES ('Tegen', 33);
+INSERT INTO Ages (name, age) VALUES ('Jayda', 14);
+INSERT INTO Ages (name, age) VALUES ('Cathal', 15);
 INSERT INTO Ages (name, age) VALUES ('Kiera', 21);`
 
 <br>
